@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Alexon Conceição</h1>
-<h3 align="center">Sou analista de sistemas numa empresa governamental e desenvolvedor python nas horas vagas</h3>
+<h3 align="center">Apaixonado por Python, mas aprendendo as infinitas JS frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexonconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="alexonconceicao" /> </p>
 
