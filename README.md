@@ -7,7 +7,7 @@
 
 - 🌱 Estou aprendendo **Javascript, Node focado em Electron e Clean code**
 
-- 💬 Pergunte-me sobre **Python GUI, Orientação a objetos e Clean code**
+- 💬 Pergunte-me sobre **Python GUI, Orientação a objetos e Google API com Python**
 
 - 📫 Como me encontrar **alexonoffice@gmail.com**
 
