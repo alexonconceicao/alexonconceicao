@@ -13,7 +13,7 @@
 
 - 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/alexon-conceicao/](https://www.linkedin.com/in/alexon-conceicao/)
 
-- ⚡ **"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra."**
+- ⚡ **"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra." - Rick Sanchez**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
