@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou desenvolvendo **DAD (DOJ Automation Docs), HSM (HTML Script Manager)**
 
-- 🌱 Estou aprendendo **Javascript, Node focado em Electron e Clean code**
+- 🌱 Estou aprendendo **Javascript, NodeJS focado em Electron e Clean code**
 
 - 💬 Pergunte-me sobre **Python GUI, Orientação a objetos e Google API com Python**
 
