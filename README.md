@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexonconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="alexonconceicao" /> </p>
 
-Hi there, I'm a developer from Brazil. I love programming and <s>try to<s> solve problems for other people, so here I am, what's the problem? XD
+Hi there, I'm a developer from Brazil. I love programming and <s>try to</s> solve problems for other people, so here I am, what's the problem? XD
 
 - ⚡ **"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra." - Rick Sanchez**
 
