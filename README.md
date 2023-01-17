@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexonconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="alexonconceicao" /> </p>
 
-- 🔭 Atualmente estou desenvolvendo **DAD (DOJ Automation Docs), HSM (HTML Script Manager)**
-
-- 🌱 Estou aprendendo **Javascript, NodeJS focado em Electron e Clean code**
-
-- 💬 Pergunte-me sobre **Python GUI, Orientação a objetos e Google API com Python**
-
-- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/alexon-conceicao/](https://www.linkedin.com/in/alexon-conceicao/)
+- 🔭 Atualmente estou desenvolvendo **Money Organizer** (React + Electron)
 
 - ⚡ **"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra." - Rick Sanchez**
 
