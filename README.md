@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexonconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="alexonconceicao" /> </p>
 
-<p>I'm a developer from Brazil. I love programming and solve problems for other people. So here I am, what's the problem? XD</p>
+<p>I'm a developer from Brazil.</p>
+<p>I love programming and solve problems for other people.</p> </p>
+<p> So here I am, what's the problem?</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
