@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexonconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="alexonconceicao" /> </p>
 
-<p>I'm a developer from Brazil. I love programming and <s>try to</s> solve problems for other people, so here I am, what's the problem? XD</p>
-
-- ⚡ **"Live is risk everything. Otherwise you're just an inert piece of randomly assembled molecules adrift where the universe blows you." - Rick Sanchez**
+<p>I'm a developer from Brazil. I love programming and solve problems for other people. So here I am, what's the problem? XD</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
